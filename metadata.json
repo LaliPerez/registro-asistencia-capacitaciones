@@ -1,0 +1,5 @@
+
+{
+  "name": "Generador de Constancia de Capacitación",
+  "description": "Una aplicación para generar constancias de asistencia a capacitaciones, requiriendo una firma digital del participante y permitiendo la descarga del documento en formato PDF."
+}
